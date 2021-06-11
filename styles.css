@@ -1,0 +1,21 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+.size {
+    width: 100%;
+}
+
+.btn{
+    position:relative;
+    width: 400px;
+    height: 150px;
+    margin-left: 270px;
+    top: -276px;
+    left: -100px;
+    border: none;
+    background-color: transparent;
+}
+.btn:hover{
+    cursor: pointer;
+}
